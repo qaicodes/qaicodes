@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=🚀+Senior+AI+Engineer+|+LLM+Architect+|+Cloud+AI+Specialist;🤖+Expert+in+RAG+%7C+LangChain+%7C+Vector+Databases;💡+Building+Scalable+LLM+Workflows+&+Production+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=🚀+Lead+Data+Scientist+|+LLM+Architect+|+Cloud+AI+Specialist;🤖+Expert+in+RAG+%7C+LangChain+%7C+Vector+Databases;💡+Building+Scalable+LLM+Workflows+&+Production+AI" />
 </p>
 
 ---
